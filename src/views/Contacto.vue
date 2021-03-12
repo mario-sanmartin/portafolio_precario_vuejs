@@ -24,6 +24,9 @@
         </a>
       </ul>
     </div>
+    <div>
+      <img src="../assets/fondo.jpg" alt="8bits" srcset="">
+    </div>
   </div>
 </template>
 
@@ -40,5 +43,13 @@
 }
 h2{
   text-align: center;
+}
+
+img{
+  max-width: 50%;
+  max-height: 50%;
+  display: block;
+  margin: auto;
+  border-radius: 70%;
 }
 </style>
