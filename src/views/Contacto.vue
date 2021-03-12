@@ -1,6 +1,6 @@
 <template>
   <div id="contacto" class="section-container">
-    <h2 style="text-align: center">Mis Redes</h2>
+    <h2>Mis Redes</h2>
     <div class="textito text-center">
       <ul>
         <!-- <a href="http://" target="_blank" rel="noopener noreferrer">
@@ -28,10 +28,17 @@
 </template>
 
 <style scoped>
+
+
+
 #contacto {
   margin-top: 5em;
+  font-family: 'DotGothic16', sans-serif;
 }
 .textito {
   font-family: monospace;
+}
+h2{
+  text-align: center;
 }
 </style>

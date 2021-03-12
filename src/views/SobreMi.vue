@@ -26,13 +26,16 @@ export default {
 };
 </script>
 <style scoped>
+
 #primero {
   display: flex;
   justify-content: space-between;
+   
+
 }
 
 h2 {
-  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+   font-family: 'DotGothic16', sans-serif;
 }
 #segundo-container {
   padding: 40px;

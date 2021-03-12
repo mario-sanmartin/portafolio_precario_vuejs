@@ -28,7 +28,7 @@ export default {
 }
 #i-logo {
   font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  font-size: 2500%;
+  font-size: 200px;
   text-align: center;
   padding: 0;
 }
