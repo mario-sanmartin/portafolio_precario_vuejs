@@ -1,4 +1,4 @@
-# port
+# Portafolio precario en Vuejs (responsive)
 Portafolio creado con Vuejs v2 :
 tiene todo lo necesario :
   Inicio
